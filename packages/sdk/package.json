@@ -1,0 +1,25 @@
+{
+  "name": "@zeroknow/sdk",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.ts",
+      "default": "./src/index.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@zeroknow/abi": "0.1.0",
+    "viem": "^2.19.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
