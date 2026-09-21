@@ -2,11 +2,11 @@
 
 **Experimental / Under Active Development / Not Audited**
 
-This document reconciles the requested repository scope against the attached **ZeroKnow v1.0 Concept Paper**.
+This document reconciles the requested repository scope against the attached **ZeroKnow v1.0 Protocol Paper**.
 
-## Concepts Supported by the Paper
+## Protocol Areas Supported by the Paper
 
-The concept paper supports the following protocol themes:
+The paper supports the following protocol themes:
 
 - Privacy-focused onchain infrastructure.
 - Zero-knowledge cryptography for proving claims without revealing underlying information.
@@ -27,9 +27,9 @@ The concept paper supports the following protocol themes:
 - Possible native utility and ecosystem functions.
 - Roadmap phases from research through privacy ecosystem.
 
-## Concepts Not Specified by the Paper
+## Requested Areas Not Specified by the Paper
 
-The concept paper does **not** define:
+The paper does **not** define:
 
 - PortfolioFactory
 - PortfolioVault

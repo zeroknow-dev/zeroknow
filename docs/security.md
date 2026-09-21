@@ -2,7 +2,7 @@
 
 **Experimental / Under Active Development / Not Audited**
 
-The concept paper states that ZeroKnow security depends on cryptographic primitives, circuit design, implementation, key management, and protocol assumptions.
+The ZeroKnow paper states that security depends on cryptographic primitives, circuit design, implementation, key management, and protocol assumptions.
 
 ## Requirements Before Production
 

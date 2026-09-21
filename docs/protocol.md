@@ -30,7 +30,7 @@ The registry asks the verifier whether the proof is valid for the requested clai
 
 ## Selective Disclosure
 
-Selective disclosure is a protocol goal from the concept paper. This scaffold does not implement private credential formats, nullifier design, membership trees, or disclosure policies. Those require formal protocol specifications and audits.
+Selective disclosure is a protocol goal from the ZeroKnow paper. This scaffold does not implement private credential formats, nullifier design, membership trees, or disclosure policies. Those require formal protocol specifications and audits.
 
 ## Decentralized Prover Ecosystem
 

@@ -1,6 +1,6 @@
 # Roadmap
 
-Based on the ZeroKnow v1.0 Concept Paper.
+Based on the ZeroKnow v1.0 Protocol Paper.
 
 ## Phase I - Research
 

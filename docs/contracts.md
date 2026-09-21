@@ -20,7 +20,7 @@ Simple metadata registry for prover participants.
 
 ## Requested Experimental Portfolio Extension
 
-These contracts are not specified by the ZeroKnow v1.0 Concept Paper.
+These contracts are not specified by the ZeroKnow v1.0 Protocol Paper.
 
 ### PortfolioFactory
 

@@ -2,7 +2,7 @@
 
 **Experimental / Under Active Development / Not Audited**
 
-ZeroKnow is a privacy-focused onchain infrastructure concept for verifiable digital activity. The v1.0 concept paper describes a protocol that lets users and applications prove claims while minimizing disclosure of the underlying information.
+ZeroKnow is privacy-focused onchain infrastructure for verifiable digital activity. The v1.0 protocol paper describes a system that lets users and applications prove claims while minimizing disclosure of the underlying information.
 
 Core principle:
 
@@ -12,7 +12,7 @@ This repository is a GitHub-ready protocol scaffold. It includes Solidity contra
 
 ## Source Alignment Notice
 
-The attached **ZeroKnow v1.0 Concept Paper** specifies concepts such as private state, proof generation, verification, selective disclosure, developer SDKs, a decentralized prover ecosystem, security assumptions, roadmap, and possible native utility or ecosystem functionality.
+The attached **ZeroKnow v1.0 Protocol Paper** specifies protocol areas such as private state, proof generation, verification, selective disclosure, developer SDKs, a decentralized prover ecosystem, security assumptions, roadmap, and possible native utility or ecosystem functionality.
 
 It does **not** specify PortfolioFactory, PortfolioVault, PortfolioShare, or MarketRouter. Those contracts are included here only because they were explicitly requested. They are documented and namespaced as **experimental portfolio-market extensions**, not as claims from the paper.
 

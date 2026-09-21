@@ -88,7 +88,7 @@ export default function HomePage() {
         <p className="eyebrow">Requested extension</p>
         <h2>Portfolio contracts are experimental additions, not paper-defined ZeroKnow v1.0 modules.</h2>
         <p>
-          The concept paper describes private state, proofs, verification, selective disclosure,
+          The ZeroKnow paper describes private state, proofs, verification, selective disclosure,
           prover markets, SDKs, and security assumptions. PortfolioFactory, PortfolioVault,
           PortfolioShare, and MarketRouter are included only as requested experimental extensions.
         </p>
