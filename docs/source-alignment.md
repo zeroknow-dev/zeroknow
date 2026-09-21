@@ -24,7 +24,7 @@ The concept paper supports the following protocol themes:
 - Developer SDK abstractions.
 - Decentralized prover ecosystem / proof marketplace.
 - Security assumptions around cryptographic primitives, circuits, implementation, key management, and protocol assumptions.
-- Possible $ZK utility and ecosystem functions.
+- Possible native utility and ecosystem functions.
 - Roadmap phases from research through privacy ecosystem.
 
 ## Concepts Not Specified by the Paper

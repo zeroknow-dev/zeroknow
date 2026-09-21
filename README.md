@@ -12,7 +12,7 @@ This repository is a GitHub-ready protocol scaffold. It includes Solidity contra
 
 ## Source Alignment Notice
 
-The attached **ZeroKnow v1.0 Concept Paper** specifies concepts such as private state, proof generation, verification, selective disclosure, developer SDKs, a decentralized prover ecosystem, security assumptions, roadmap, and possible $ZK utility.
+The attached **ZeroKnow v1.0 Concept Paper** specifies concepts such as private state, proof generation, verification, selective disclosure, developer SDKs, a decentralized prover ecosystem, security assumptions, roadmap, and possible native utility or ecosystem functionality.
 
 It does **not** specify PortfolioFactory, PortfolioVault, PortfolioShare, or MarketRouter. Those contracts are included here only because they were explicitly requested. They are documented and namespaced as **experimental portfolio-market extensions**, not as claims from the paper.
 

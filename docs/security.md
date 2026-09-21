@@ -16,7 +16,7 @@ The concept paper states that ZeroKnow security depends on cryptographic primiti
 - Nullifier and replay protection design.
 - Prover marketplace security model.
 - Oracle design if portfolio extensions are retained.
-- Economic analysis if $ZK utility is introduced.
+- Economic analysis if native utility or ecosystem incentives are introduced.
 
 ## Development-Only Components
 

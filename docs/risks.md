@@ -28,6 +28,6 @@ The portfolio extension is not part of the paper and adds risks:
 - Liquidity and share pricing risk.
 - Confusion between sample extension and core ZeroKnow protocol.
 
-## Token Risk
+## Token And Utility Risk
 
-The paper frames $ZK as potential utility or ecosystem functionality. This repo does not define token economics, equity rights, return promises, or final utility.
+The paper frames native utility or ecosystem functionality as potential future design space. This repo does not define token economics, equity rights, return promises, or final utility.
