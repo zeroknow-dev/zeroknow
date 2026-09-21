@@ -10,14 +10,6 @@ Core principle:
 
 This repository is a GitHub-ready protocol scaffold. It includes Solidity contracts, a Foundry project, a TypeScript SDK, ABI/config packages, a Next.js frontend scaffold, a PostgreSQL-backed analytics indexer scaffold, and protocol documentation.
 
-## Source Alignment Notice
-
-The attached **ZeroKnow v1.0 Protocol Paper** specifies protocol areas such as private state, proof generation, verification, selective disclosure, developer SDKs, a decentralized prover ecosystem, security assumptions, roadmap, and possible native utility or ecosystem functionality.
-
-It does **not** specify PortfolioFactory, PortfolioVault, PortfolioShare, or MarketRouter. Those contracts are included here only because they were explicitly requested. They are documented and namespaced as **experimental portfolio-market extensions**, not as claims from the paper.
-
-See [docs/source-alignment.md](docs/source-alignment.md).
-
 ## Repository Layout
 
 ```text
